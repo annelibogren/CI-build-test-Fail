@@ -1,3 +1,3 @@
 public class TestFail {
-    //System.out.print("oops");
+    int a = 2;
 }
