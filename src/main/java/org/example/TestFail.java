@@ -1,3 +1,3 @@
-public class TestFal {
-    System.out.print("oops");
+public class TestFail {
+    //System.out.print("oops");
 }
